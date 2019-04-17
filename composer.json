@@ -1,0 +1,17 @@
+{
+    "name": "xepozz/dogsy",
+    "require": {
+        "symfony/console": "^4.2"
+    },
+    "authors": [
+        {
+            "name": "Dmitriy Derepko",
+            "email": "xepozz@list.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src"
+        }
+    }
+}
